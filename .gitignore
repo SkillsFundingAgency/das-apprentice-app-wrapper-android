@@ -312,6 +312,7 @@ setup/containermongo/data/
 *.apk
 *.ap_
 *.aab
+*.apk.idsig
 
 # files for the dex VM
 *.dex
